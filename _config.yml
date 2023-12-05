@@ -1,3 +1,5 @@
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Ferramenta de modelagem de software para ensino de programação com Design Patterns
+description: Trabalho de conclusão de curso da Escola Politécnica da USP
